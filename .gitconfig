@@ -1,0 +1,3 @@
+[filter "versioning"]
+	smudge = echo \"\\\"\"`git describe --tags`\"\\\"\"
+	clean = echo \"\\\"HEAD\\\"\"
