@@ -1,6 +1,6 @@
 # versioning
 
-This project was created for simulating versiong with git tags.
+This project was created for simulating versioning with git tags.
 
 ## Setup
 
